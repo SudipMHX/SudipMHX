@@ -1,57 +1,113 @@
-# Hey there! 👋 I'm MahaTab Hossen Sudip
+<div style="background:url('./assets/images/background.svg');padding:50px;">
+  <h1 align="center">
+    Hey there!👋
+    <br/>
+    I'm <span style="color:#00FFFF;">Mahatab Hossen Sudip</span>
+  </h1>
+</div>
 
-### Front-End Focused MERN Stack Developer 🚀
+## 👋 About Me
 
-[![Email](https://img.shields.io/badge/-Contact%20Me%20📧-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:sudipmhx@gmail.com)
+Hey there! I'm **Mahatab Hossen Sudip**, but you can call me **Sudip** 😊  
+I'm a **Front-End Focused MERN Stack Web Developer** who loves building clean, fast, and modern web apps using **JavaScript** technologies.
 
-```javascript
-const sudip = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-  frontend: {
-    frameworks: ["React.js", "Next.js"],
-    styling: ["Tailwind CSS", "Bootstrap", "CSS Modules"]
-  },
-  backend: ["Node.js", "Express.js"],
-  databases: ["MongoDB", "Firebase"],
-  tools: ["Git", "Postman", "Mongoose", "Figma", "Adobe XD"],
-  hobbies: ["Coding", "UI/UX Design", "Learning New Tech"]
-};
-```
+- 🧠 Always learning new things & improving my skills
+- 🔥 Passionate about creating smooth, user-friendly interfaces
+- 🛠️ Currently working with: `React.js`, `Next.js`, `TailwindCSS`
+- 💬 Ask me anything about: `JavaScript`, `HTML`, `CSS`, `React.js`
+- 🧑‍🎓 Diving deeper into: `Express.js`, `Node.js`, `TypeScript`
+- 🎯 Goal: Make things simple, useful, and beautiful
 
-## 🛠 Tech Stack
+## 🛠 My Toolbox
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🚀 Front-End
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="./assets/icons/html5.svg" />
+  <img src="./assets/icons/css3.svg" />
+  <img src="./assets/icons/javascript.svg" />
+  <img src="./assets/icons/typescript.svg" />
+  <img src="./assets/icons/reactjs.svg" />
+  <img src="./assets/icons/nextjs.svg" />
+  <img src="./assets/icons/react-router.svg" />
+  <img src="./assets/icons/tanstack-query.svg" />
+  <img src="./assets/icons/tailwindcss.svg" /> 
+  <img src="./assets/icons/bootstrap.svg" />
+  <br/>
+  <img src="./assets/icons/chakra-ui.svg" />
+  <img src="./assets/icons/daisy-ui.svg" />
+  <img src="./assets/icons/shadcn-ui.svg" />
+  <img src="./assets/icons/material-ui.svg" />
+  <img src="./assets/icons/mdx.svg" />
+</p>
 
-### Tools & Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🧩 Back-End & Databases
+
+<p align="center">
+  <img src="./assets/icons/nodejs.svg" />
+  <img src="./assets/icons/expressjs.svg" />
+  <img src="./assets/icons/mongodb.svg" />
+  <img src="./assets/icons/mongoose.svg" />
+  <img src="./assets/icons/firebase.svg" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="./assets/icons/postman.svg" />
+  <img src="./assets/icons/figma.svg" />
+  <img src="./assets/icons/canva.svg" />
+  <img src="./assets/icons/adobe-xd.svg" />
+  <img src="./assets/icons/adobe-Illustrator.svg" />
+  <img src="./assets/icons/framer.svg" />
+</p>
+
+### 🔐 Security
+
+<p align="center">
+  <img src="./assets/icons/jwt.svg" />
+  <img src="./assets/icons/next-auth.svg" />
+  <img src="./assets/icons/firebase-auth.svg" />
+</p>
 
 ## 📈 GitHub Stats
 
-[![Sudip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudipMHX&show_icons=true&theme=radical)](https://github.com/SudipMHX)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipMHX&layout=compact&theme=radical)](https://github.com/SudipMHX)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudipMHX&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudipMHX&layout=compact&theme=transparent" />
+</div>
 
-## 🔥 Streak Stats
+## 🔥 Streak Status
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SudipMHX&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SudipMHX&theme=transparent&border_radius=5" />
+</p>
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/SudipMHX)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudipmhx@gmail.com)
+<p align="center">
+  <a href="mailto:sudipmhx@gmail.com">
+    <img src="./assets/icons/gmail.svg" />
+  </a>
+  <a href="https://github.com/SudipMHX">
+    <img src="./assets/icons/github.svg" />
+  </a>
+  <a href="https://wa.link/jkcu6i">
+     <img src="./assets/icons/whatsapp.svg" />
+  </a>
+  <a href="https://sudipmhx.vercel.app">
+     <img src="./assets/icons/SudipMHX.svg" />
+  </a>
+  <!--<a href="https://facebook.com/SudipMHX">
+    <img src="./assets/icons/facebook.svg" />
+  </a> -->
+</p>
 
-⭐️ From [SudipMHX](https://github.com/SudipMHX)
+<br/><br/>
+
+<p align="center">
+  <a href="https://github.com/SudipMHX">
+    <img src="https://komarev.com/ghpvc/?username=SudipMHX&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="SudipMHX" />
+  </a><br/>
+  ⭐️ From <a href="https://github.com/SudipMHX">SudipMHX</a>
+</p>
